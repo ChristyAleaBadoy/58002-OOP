@@ -1,2 +1,2 @@
 # 58002-OOP
-The repository for my class OOP
+My repository for OOP Class
